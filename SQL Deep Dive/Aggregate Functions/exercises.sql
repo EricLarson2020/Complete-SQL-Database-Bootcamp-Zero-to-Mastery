@@ -42,5 +42,6 @@
 66.48603611164265
 -- Question 3: What is the average population for cities in the netherlands?
 -- Table: city
+185001
 
 
